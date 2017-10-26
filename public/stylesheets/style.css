@@ -1,0 +1,17 @@
+body { adding: 50px; font: 14px "Lucida Grande", Helvetica, Arial, sans-serif; min-width: 1200px;}
+.clear:after { clear:both; content:''; display:block; }
+.clear { zoom:1; }
+nav a {color: black; margin:10px; text-decoration: underline; }
+nav{ float: right; padding: 20px;}
+nav a:last-child{ background: #3388FF; color: #fff; padding: 5px;text-decoration:none;}
+nav a:first-child,nav a:nth-child(3),nav a:nth-child(4),nav a:nth-child(5),nav a:nth-child(6){ font-weight: bold;}
+.logo{ width: 270px; height: 129px; margin:0 auto; display: block; clear: both; padding: 30px;}
+.form{ text-align: center;}
+.form input{ width: 500px; height: 30px;}
+.form button,nav button{ width: 100px; height: 36px; border: none; background: #3385FF; color: #FFF;}
+nav button{ width: 70px; height: 24px;}
+figure{ margin:0 auto; width: 100px; margin-top: 180px; text-align: center;}
+figure figcaption{ color: #4C4C4C; font-weight: bold;}
+.footer{ text-align: center;color: #B29999;}
+.footer a{ color: #B29999; margin: 5px; text-decoration: underline;}
+.footer p img{ position: relative; top: 5px; margin-right: 10px;}
